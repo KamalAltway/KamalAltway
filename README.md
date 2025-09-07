@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/KamalAltway/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/KamalAltway/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/KamalAltway/Vulnerability-Management-Program/tree/main/Automation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
